@@ -1,3 +1,19 @@
+
+# Data
+
+**Data Source:** [Mice Protein Expression](https://archive.ics.uci.edu/dataset/342/mice+protein+expression)
+
+To ensure the proper functioning of this project, follow these steps:
+
+1. Download the dataset from the provided [source link](https://archive.ics.uci.edu/dataset/342/mice+protein+expression).
+
+2. Rename the downloaded data file to `train.csv`.
+
+3. Place the renamed file in the following folder: `ML-Lab5/data/raw/train.csv`.
+
+This dataset forms the basis for conducting the tasks outlined in Laboratory Work #5.
+
+
 # Лабораторная работа №5. Алгоритмы кластеризации данных
 ## Общее задание
 
